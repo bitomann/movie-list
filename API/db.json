@@ -9,6 +9,11 @@
         "id": 2,
         "title": "joker",
         "releaseDate": "October 4, 2019"
+    },
+    {
+        "id": 3,
+        "title": "training day",
+        "releaseDate": "October 5, 2001"
     }
 ]
 }
