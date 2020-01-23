@@ -1,0 +1,14 @@
+{
+    "movies": [ 
+    {
+        "id": 1,
+        "title": "exorcism of emily rose",
+        "releaseDate": "September 9, 2005"
+      },
+    {
+        "id": 2,
+        "title": "joker",
+        "releaseDate": "October 4, 2019"
+    }
+]
+}
