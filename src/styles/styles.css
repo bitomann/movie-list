@@ -1,4 +1,10 @@
+body {
+    color: ghostwhite;
+    background-color: black;
+}
+
 section {
+    color: ghostwhite;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
